@@ -1,0 +1,9 @@
+{
+  "appId": "fun.sh1zuho.finder",
+  "appName": "sh1zuho finder",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
